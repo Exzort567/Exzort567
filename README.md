@@ -59,11 +59,6 @@ I'm a passionate developer who loves to explore new technologies and build innov
         </td>
     </tr>
 </table>
-<br />
-
-<h3>👀 Profile Views</h3>
-<img src="https://komarev.com/ghpvc/?username=Exzort567&color=blueviolet" alt="Profile Views" />
-
 </div>
 
 <div align="center">
