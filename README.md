@@ -49,12 +49,15 @@ I'm a passionate developer who loves to explore new technologies and build innov
 
 <table align="center">
     <tr>
+      <th><h3>📈 Github Stats</h3></th>
+      <th><h3>💭 Random Dev Quote</h3></h3></th>
+    </tr>
+    <tr>
         <td align="center" width="50%">
             <img src="https://github-readme-stats.vercel.app/api?username=Exzort567&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Exzort567's GitHub Stats" />
             <br />
         </td>
         <td align="center" width="50%">
-            <h3>💭 Random Dev Quote</h3>
             <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
         </td>
     </tr>
