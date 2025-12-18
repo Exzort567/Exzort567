@@ -64,11 +64,6 @@ I'm a passionate developer who loves to explore new technologies and build innov
 </table>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-
 ---
 <div align="center">
   <b>⭐ Show some ❤️ by starring some of the repositories!</b>
