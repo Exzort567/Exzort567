@@ -66,7 +66,7 @@ I'm a passionate developer who loves to explore new technologies and build innov
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Exzort567&theme=redical&hide_border=true)](https://github.com/Exzort567)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Exzort567&theme=radical&hide_border=true)](https://github.com/Exzort567)
 
 </div>
 
