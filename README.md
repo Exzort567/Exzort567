@@ -75,10 +75,6 @@ I'm a passionate developer who loves to explore new technologies and build innov
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😄 Here's a Dev Joke for You!
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
 ---
 
 ### 👀 Profile Views
