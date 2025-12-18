@@ -73,7 +73,7 @@ I'm a passionate developer who loves to explore new technologies and build innov
 
 ---
 <div align="center">
-  ### ⭐ Show some ❤️ by starring some of the repositories!
+  <b>⭐ Show some ❤️ by starring some of the repositories!</b>
 </div>
 
 
