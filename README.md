@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Exzort567!
+# 👋 Hello, I'm Kenneth Quibel!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 I'm a passionate developer who loves to explore new technologies and build innovative solutions. My journey in tech is driven by curiosity and the desire to create meaningful projects.
 
 - 🔭 Currently exploring various development technologies and frameworks
-- �� Always learning and improving my skills
+- 🧠 Always learning and improving my skills
 - 💡 Love to collaborate on interesting projects
 - ⚡ Fun fact: Code is poetry in motion!
 
