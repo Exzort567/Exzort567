@@ -44,8 +44,6 @@ I'm a passionate developer who loves to explore new technologies and build innov
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exzort567&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Exzort567&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Exzort567&theme=radical&hide_border=true)
 
 </div>
