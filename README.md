@@ -41,10 +41,21 @@ I'm a passionate developer who loves to explore new technologies and build innov
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exzort567&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Exzort567&theme=radical&hide_border=true)
+<table align="center">
+    <tr>
+        <td align="center" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api?username=Exzort567&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Exzort567's GitHub Stats" />
+            <br />
+            <br />
+            <img src="https://streak-stats.demolab.com?user=Exzort567&theme=radical&hide_border=true" alt="Exzort567's Streak" />
+        </td>
+        <td align="center" width="50%">
+            <h3>💭 Random Dev Quote</h3>
+            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+        </td>
+    </tr>
+</table>
 
 </div>
 
@@ -69,11 +80,6 @@ I'm a passionate developer who loves to explore new technologies and build innov
 
 ---
 
-<div align="center">
-  
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
