@@ -12,10 +12,10 @@
 
 I'm a passionate developer who loves to explore new technologies and build innovative solutions. My journey in tech is driven by curiosity and the desire to create meaningful projects.
 
-- 🔭 Currently exploring various development technologies and frameworks
+- 🎯 Focused on Web Development & AI
 - 🧠 Always learning and improving my skills
 - 💡 Love to collaborate on interesting projects
-- ⚡ Fun fact: Code is poetry in motion!
+- ⚡ Fun fact: Platypuses sweat milk!
 
 ---
 
