@@ -54,7 +54,7 @@ I'm a passionate developer who loves to explore new technologies and build innov
     </tr>
     <tr>
         <td align="center" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=Exzort567)](https://github.com/anuraghazra/github-readme-stats" alt="Exzort567's GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Exzort567&show_icons=true&theme=radical" alt="Exzort567's GitHub Stats" />
             <br />
         </td>
         <td align="center" width="50%">
